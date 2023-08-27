@@ -185,6 +185,7 @@ We need to edit the /etc/apache2/mods-enabled/dir.conf file and change the order
         DirectoryIndex index.php index.html index.cgi index.pl index.xhtml index.htm
 </IfModule>
 ```
+![vi dir conf](https://github.com/Sommie007/LAMP-STACK-PROJECT/assets/139817771/b2f9f6b8-9608-461f-8be7-1c13b372172e)
 
 Save and close the file, The Apache service needs to be restarted for the changes to take effect.
 
